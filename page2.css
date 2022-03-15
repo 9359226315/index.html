@@ -22,7 +22,7 @@
     border-radius: 10px;
     padding-top: 20px;
     text-align: center;
-    position:relative;
+    position:absolute;
      left: 550px;
 
      
@@ -30,7 +30,7 @@
 
 .fa-solid{
     width: 20px;
-    position: relative;
+    position:absolute;
     top:40px;
     left:80px;
     font-size: 25px;
@@ -38,7 +38,7 @@
 }
 
 .postiton{
-    position: relative;
+    position:absolute;
     bottom:80px;
     left: 30px;
 }
